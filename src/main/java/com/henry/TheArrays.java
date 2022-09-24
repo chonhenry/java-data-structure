@@ -34,4 +34,3 @@ public class TheArrays {
         Arrays.stream(colors).forEach(System.out::println);
     }
 }
-// 9:20

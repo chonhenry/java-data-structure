@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a004553-cb2d-4145-9cee-f3717c73b7b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/TwoDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/Lists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/henry/TheArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/henry/TheArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoDArrays">
+  <component name="RunManager" selected="Application.Lists">
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.henry.Lists" />
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TheArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.henry.TheArrays" />
       <module name="java-data-structures" />
@@ -73,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.TwoDArrays" />
         <item itemvalue="Application.TheArrays" />
       </list>
